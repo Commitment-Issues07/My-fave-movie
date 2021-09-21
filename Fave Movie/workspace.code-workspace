@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Beppie Zelf"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fave Movie"
+	}
+}
